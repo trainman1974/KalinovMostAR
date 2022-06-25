@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="10.3.2">
+<ModelTarget name="model_scan_low" targetId="b19894a462a74425b364acd6239590ee" version="14.0" toolVersion="10.3.2" bbox="-0.168012 -0.133960 -0.064607 0.147621 0.143615 0.323354" previewImage="b19894a462a74425b364acd6239590ee_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="model_scan_lows_assembly" assemblyId="d372e6ca902f47eda21066ff7d1c0e35">
+<Part name="model_scan_low" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00446797 0.0880423 0.810362" rotation="AD: 0.7088681505173048 1.8794773687033017 -0.8229366471939689 163.726" image="model_scan_low_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

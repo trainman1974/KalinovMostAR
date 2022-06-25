@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="dreamer_size" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="dreamer_sizes_assembly" assemblyId="662cf6b157de481b98bf264b8b2674c0">
+<Part name="dreamer_size" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-8.47022e-06 0.0609047 0.365125" rotation="AD: 0.9981436718812485 0.15045232633859304 -0.46882312152382344 212.112" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

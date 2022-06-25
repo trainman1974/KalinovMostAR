@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="model_scan_low" motionHint="static" trackingMode="scan"/>
+
+</Tracking>
+
+<Assembly name="model_scan_lows_assembly" assemblyId="d372e6ca902f47eda21066ff7d1c0e35">
+<Part name="model_scan_low" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00446797 0.0880423 0.810362" rotation="AD: 0.7088681505173048 1.8794773687033017 -0.8229366471939689 163.726" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

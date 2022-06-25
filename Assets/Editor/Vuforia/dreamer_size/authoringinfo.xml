@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="10.3.2">
+<ModelTarget name="dreamer_size" targetId="bfac887f9d2a43f590acf718d7a506a7" version="14.0" toolVersion="10.3.2" bbox="-0.066800 0.000057 -0.080498 0.066773 0.149737 0.080498" previewImage="bfac887f9d2a43f590acf718d7a506a7_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="dreamer_sizes_assembly" assemblyId="662cf6b157de481b98bf264b8b2674c0">
+<Part name="dreamer_size" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-8.47022e-06 0.0609047 0.365125" rotation="AD: 0.9981436718812485 0.15045232633859304 -0.46882312152382344 212.112" image="dreamer_size_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
