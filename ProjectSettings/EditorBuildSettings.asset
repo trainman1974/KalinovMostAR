@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Ural.unity
+    path: Assets/Scenes/KalinovMost.unity
     guid: 35325065f267ead4d8295c93c08d6c1e
   m_configObjects: {}
