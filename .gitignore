@@ -71,4 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 Assets/Repository/Video/Rolik_02.mp4
 Assets/Repository/Video/Ural_01.mp4
+
+///////////////
 Packages/com.ptc.vuforia.engine-10.3.2.tgz
+Packages/com.ptc.vuforia.engine-10.11.3.tgz
