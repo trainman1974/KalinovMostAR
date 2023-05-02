@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - videoPlayer
+  - RenderCamera
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Roostyer
   - Water
   - UI
   - 
